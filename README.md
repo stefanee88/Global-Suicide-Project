@@ -1,6 +1,6 @@
 # Global Suicide
 
-Thanks for checking out our team's repo! Our team retrieved data Kaggle.com to observe trends in global suicide rates from 1985-2016 across several variables including countries, continents, gender, and age groups. We cleaned the data, identified relationships of interest, created meaningful graphs to observe trends, conducted statistical calculations, and performed a thorough analysis of our findings. Please check out our 'suicide.ipynb' file to find our final data analysis and the steps we took to get there. You can find our project presentation in our 'Suicide Presentation.pptx' file.
+Thanks for checking out our team's repo! Our team retrieved data from Kaggle.com to observe trends in global suicide rates from 1985-2016 across several variables including countries, continents, gender, and age groups. We cleaned the data, identified relationships of interest, created meaningful graphs to observe trends, conducted statistical calculations, and performed a thorough analysis of our findings. Please check out our 'suicide.ipynb' file to find our final data analysis and the steps we took to get there. You can find our project presentation in our 'Suicide Presentation.pptx' file.
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
