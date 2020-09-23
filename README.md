@@ -27,7 +27,7 @@ Overall, our team learned a great deal about the trends in global suicide rates 
 
 <!--Built With-->
 ### Built With
-This project was built using the following frameworks:<br>
+This project was built using the following frameworks/libraries:<br>
 * Python
 * Pandas
 * Matplotlib
